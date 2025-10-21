@@ -1,0 +1,88 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredPackages">
+        <list>
+          <option value="anyio" />
+          <option value="attrs" />
+          <option value="Automat" />
+          <option value="beautifulsoup4" />
+          <option value="certifi" />
+          <option value="cffi" />
+          <option value="charset-normalizer" />
+          <option value="constantly" />
+          <option value="cryptography" />
+          <option value="cssselect" />
+          <option value="defusedxml" />
+          <option value="filelock" />
+          <option value="greenlet" />
+          <option value="h11" />
+          <option value="httpcore" />
+          <option value="httpx" />
+          <option value="hyperlink" />
+          <option value="idna" />
+          <option value="incremental" />
+          <option value="itemadapter" />
+          <option value="itemloaders" />
+          <option value="jmespath" />
+          <option value="lxml" />
+          <option value="numpy" />
+          <option value="packaging" />
+          <option value="pandas" />
+          <option value="parsel" />
+          <option value="Protego" />
+          <option value="psycopg2-binary" />
+          <option value="pyasn1" />
+          <option value="pyasn1_modules" />
+          <option value="pycparser" />
+          <option value="PyDispatcher" />
+          <option value="pyOpenSSL" />
+          <option value="python-dateutil" />
+          <option value="python-dotenv" />
+          <option value="python-telegram-bot" />
+          <option value="pytz" />
+          <option value="queuelib" />
+          <option value="requests" />
+          <option value="requests-file" />
+          <option value="Scrapy" />
+          <option value="service-identity" />
+          <option value="six" />
+          <option value="sniffio" />
+          <option value="soupsieve" />
+          <option value="SQLAlchemy" />
+          <option value="tldextract" />
+          <option value="Twisted" />
+          <option value="typing_extensions" />
+          <option value="tzdata" />
+          <option value="urllib3" />
+          <option value="w3lib" />
+          <option value="zope.interface" />
+          <option value="asttokens" />
+          <option value="comm" />
+          <option value="debugpy" />
+          <option value="decorator" />
+          <option value="executing" />
+          <option value="ipykernel" />
+          <option value="ipython" />
+          <option value="jedi" />
+          <option value="jupyter_client" />
+          <option value="jupyter_core" />
+          <option value="matplotlib-inline" />
+          <option value="nest-asyncio" />
+          <option value="parso" />
+          <option value="prompt_toolkit" />
+          <option value="psutil" />
+          <option value="pure_eval" />
+          <option value="Pygments" />
+          <option value="pywin32" />
+          <option value="pyzmq" />
+          <option value="stack-data" />
+          <option value="tornado" />
+          <option value="traitlets" />
+          <option value="wcwidth" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
